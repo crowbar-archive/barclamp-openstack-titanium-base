@@ -29,5 +29,3 @@ limitations under the License.
 ----------------------------------------------------------------------------
 
 This barclamp enables a group for OpenStack-HA and allows seperation of barclamps to ensure clarity.
-
-To implement this barclamp run /opt/dell/bin/barclamp_install.rb -d /opt/dell/barclamps/haopenstack.
